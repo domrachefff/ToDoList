@@ -25,13 +25,10 @@ ToDoList — это простое и удобное приложение для
 
 ## 📷 Скриншоты
 ### Главный экран  
-![Главный экран](Screenshots/IMG_5307.PNG)
 <img src="https://github.com/domrachefff/ToDoList/blob/main/Screenshots/IMG_5307.PNG" alt="Скриншот игры SnakeOld" width="300">
-![Главный экран](Screenshots/IMG_5310.PNG)
 <img src="https://github.com/domrachefff/ToDoList/blob/main/Screenshots/IMG_5310.PNG" alt="Скриншот игры SnakeOld" width="300">
 
 ### Редактирование/Добавление задачи  
-![Редактирование/Добавление](Screenshots/IMG_5309.PNG)
 <img src="https://github.com/domrachefff/ToDoList/blob/main/Screenshots/IMG_5309.PNG" alt="Скриншот игры SnakeOld" width="300">
 
 ## 📌 Будущие обновления
